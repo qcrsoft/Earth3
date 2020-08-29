@@ -1,0 +1,6 @@
+D:\projects\Earth\Earth.Library\obj\Debug\Earth.Library.csprojAssemblyReference.cache
+D:\projects\Earth\Earth.Library\obj\Debug\Earth.Library.csproj.CoreCompileInputs.cache
+D:\projects\Earth\Earth.Library\bin\Debug\Earth.Library.dll
+D:\projects\Earth\Earth.Library\bin\Debug\Earth.Library.pdb
+D:\projects\Earth\Earth.Library\obj\Debug\Earth.Library.dll
+D:\projects\Earth\Earth.Library\obj\Debug\Earth.Library.pdb
